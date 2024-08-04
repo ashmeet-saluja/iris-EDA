@@ -48,7 +48,3 @@ To leverage these insights for developing a classification model:
 1. **Build Classification Models**: Develop and evaluate different models using identified key features.
 2. **Hyperparameter Tuning**: Optimize models to improve accuracy.
 3. **Deploy Model**: Create a deployable version of the model for real-time predictions.
-
----
-
-This README provides a structured and detailed overview of the EDA project on the Iris dataset, similar to the style you provided for the Product Funnel Analysis for SaaS FinTech.
